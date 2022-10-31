@@ -7,4 +7,5 @@ public class Restaurant
 	private String name;
 	private Boolean address;
 
+
 }
